@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local data files
+data/*.csv
+data/*.xlsx
+data/*.xls
+
+# Local exports and temporary files
+*.log
+*.tmp
+
+# Editor and operating system
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
